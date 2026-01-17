@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-CX Manager driving innovation and excellence in **FinTech** at Fubon Financial Holdings. Product Manager and UX Designer with 5+ years of experience in digital product development, AI applications, and user experience design. I'm passionate about building products from 0 to 1, driving digital transformation in enterprise environments, and delivering award-winning user experiences.
+CX Manager driving innovation and excellence in **FinTech** at Fubon Financial Holdings. Product Manager and UX Designer with 5+ years of experience in digital product development, AI applications,[...]
 
 ## 💼 Currently
 
@@ -26,7 +26,7 @@ Financial Services (FinTech) • AI/ML SaaS • Digital Advertising • Governme
 
 - 📧 Email: [yenju.lai@proton.me](mailto:yenju.lai@proton.me)
 - 💼 LinkedIn: [linkedin.com/in/laiyenju](https://linkedin.com/in/laiyenju)
-- 🌐 Portfolio: Coming soon!
+- 🌐 Portfolio: [View My Portfolio PDF](https://github.com/laiyenju/portfolio/blob/main/Portfolio%20collection_Lai%20Yen%20Ju_2026-%E5%B7%B2%E5%A3%93%E7%B8%AE.pdf)
 
 ---
 
