@@ -1,4 +1,4 @@
-# Hi there, I'm Yen Lai (賴彥汝) 👋
+# Hi there, I'm Yen Lai 👋
 
 ## 🚀 About Me
 
