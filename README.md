@@ -18,13 +18,6 @@ CX Manager driving innovation and excellence in **FinTech** at Fubon Financial H
 - **Development**: Claude Code, SQL, Front-end Development
 - **Product**: Product-Led Growth, User Research, Data Analytics
 
-## 🏆 Achievements
-
-- 🥈 **2023** - Hugging Face Gradio Themes Hackathon (2nd Place)
-- 🥉 **2021** - DSA Best CX User Interface (Bronze)
-- 🥉 **2021** - 4A Best User Experience Creative (Bronze)
-- 📚 **2020** - EuroIA Scholarship Recipient
-
 ## 🌱 Experience Across Industries
 
 Financial Services (FinTech) • AI/ML SaaS • Digital Advertising • Government Digital Services • Content & Media
@@ -34,10 +27,6 @@ Financial Services (FinTech) • AI/ML SaaS • Digital Advertising • Governme
 - 📧 Email: [yenju.lai@proton.me](mailto:yenju.lai@proton.me)
 - 💼 LinkedIn: [linkedin.com/in/laiyenju](https://linkedin.com/in/laiyenju)
 - 🌐 Portfolio: Coming soon!
-
-## 📊 GitHub Stats
-
-![Yen's GitHub stats](https://github-readme-stats.vercel.app/api?username=laiyenju&show_icons=true&theme=radical)
 
 ---
 
