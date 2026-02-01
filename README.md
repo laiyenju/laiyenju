@@ -22,12 +22,6 @@ CX Manager driving innovation and excellence in **FinTech** at Fubon Financial H
 
 Financial Services (FinTech) • AI/ML SaaS • Digital Advertising • Government Digital Services • Content & Media
 
-## 📫 Let's Connect
-
-- 📧 Email: [yenju.lai@proton.me](mailto:yenju.lai@proton.me)
-- 💼 LinkedIn: [linkedin.com/in/laiyenju](https://linkedin.com/in/laiyenju)
-- 🌐 Portfolio: [View My Portfolio PDF](https://github.com/laiyenju/portfolio/blob/main/Portfolio%20collection_Lai%20Yen%20Ju_2026-%E5%B7%B2%E5%A3%93%E7%B8%AE.pdf)
-
 ---
 
 💡 *"Building human-centered products that drive meaningful impact at scale"*
