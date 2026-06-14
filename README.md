@@ -13,5 +13,4 @@ Mostly here to tinker. 👇 the pinned stuff is what I've been playing with late
 - 🌏 Taipei, Taiwan
 - 💬 always up for chatting about design systems, AI adoption & products that don't suck
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiyenju)
-[![X](https://img.shields.io/badge/@theYenLai-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/theYenLai)
+[LinkedIn](https://www.linkedin.com/in/laiyenju) · [X / Twitter](https://x.com/theYenLai)
