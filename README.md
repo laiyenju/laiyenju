@@ -1,27 +1,20 @@
-# Hi there, I'm Yen Lai 👋
+### hey, I'm Yen
 
-## 🚀 About Me
+I don't really have a clean title for what I do.
 
-CX Manager driving innovation and excellence in **FinTech** at Fubon Financial Holdings. Product Manager and UX Designer with 5+ years of experience in digital product development, AI applications,[...]
+Part strategist, part builder, part the-person-who-gets-eng-design-and-business
+to actually want the same thing. I like the work that's genuinely hard to start:
+where the value is obvious in hindsight, but someone had to believe in it first.
 
-## 💼 Currently
+Mostly here to tinker. 👇 the pinned stuff is what I've been playing with lately.
 
-**Manager, Fintech Strategy & Development** @ [Fubon Financial Holding](https://www.fubon.com) (富邦金控)
+- 🧩 currently: leading GenAI strategy at Fubon Financial Holdings, one of Taiwan's largest financial groups
+  → building a group-wide Agent Builder platform
+  → driving AI adoption across 6 subsidiaries
+  → keeping one design system alive across all of them
+- 🔍 currently nerding out on DeFi — total noob, learning in public
+- 🌏 Taipei, Taiwan
+- 💬 always up for chatting about design systems, AI adoption & products that don't suck
 
-- 🏗️ Architecting unified design systems across 6 subsidiaries
-- 🤝 Leading cross-functional digital experience communities
-- 🤖 Pioneering AI transformation initiatives for enterprise-scale customer service
-
-## 🛠️ Top Skills
-
-- **Design**: UX Design, Design Systems, Accessibility (WCAG AA)
-- **Development**: Claude Code, SQL, Front-end Development
-- **Product**: Product-Led Growth, User Research, Data Analytics
-
-## 🌱 Experience Across Industries
-
-Financial Services (FinTech) • AI/ML SaaS • Digital Advertising • Government Digital Services • Content & Media
-
----
-
-💡 *"Building human-centered products that drive meaningful impact at scale"*
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiyenju)
+[![X](https://img.shields.io/badge/-@theYenLai-000000?style=flat&logo=x&logoColor=white)](https://x.com/theYenLai)
